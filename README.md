@@ -14,6 +14,20 @@ We hope you find these prompts useful and have fun using ChatGPT!
 
 ---
 
+# Tips
+
+## 改写英文
+
+> Could you provide corrections and suggestions for spelling, grammar, and word choice?
+
+use: 在句子后加
+
+## 润色论文
+
+> Help me to paraphrase this paragraph more academically.
+
+use: 在句子后加
+
 # Prompts
 
 ## Act as a Linux Terminal
